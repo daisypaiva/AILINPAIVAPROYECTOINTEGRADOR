@@ -25,9 +25,12 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "PROYECTO FINAL/AILINPAIVAPROYECTOINTEGRADOR/AILIN/AILINPAIVA/node_modules/bootstrap/dist/css/bootstrap.css"
             ],
-            "scripts": []
+            "scripts": [
+"PROYECTO FINAL/AILINPAIVAPROYECTOINTEGRADOR/AILIN/AILINPAIVA/node_modules/bootstrap/dist/js/bootstrap.js"
+                     ]
           },
           "configurations": {
             "production": {
@@ -94,5 +97,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "d2c52979-d8e1-4506-b22c-ea7435bd5929"
   }
 }
